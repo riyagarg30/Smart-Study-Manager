@@ -75,3 +75,10 @@ The application follows a client–server architecture, where a Java Swing clien
 ```bash
 javac Server.java
 java Server
+```
+
+### Start the Client
+```bash
+javac Client.java
+java Client
+```
